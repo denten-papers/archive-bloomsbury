@@ -5,11 +5,32 @@ author: Dennis Yi Tenen
 ---
 
 
-# Intro
-How did you find this book? This chapter? This sentence? This word? Abstract
-for a moment from familar concepts of a "document," an "article," a "novel" and
-see the characters before you as a collection of objects. We are used to 
+An archive can be as large as a library or as small as a bookshelf. What makes
+an archive? 
 
-# Collective Memory
+- Documents
+- Architecture
+- Metadata
 
-# Shadow Libraries
+Can there be an archive without documents?  Without a catalog (torah archive).
+Without furniture?
+
+## 1 Documents
+
+What gets preserved? Collective memory. 
+
+The dream of preserving everything.  Projection of value and power.
+
+## 2 Architecture
+
+Who gets access? How? Is there a guard at the door? Do you get searched? How
+are the rooms arranged?
+Shadow Libraries
+
+## 3 Metadata
+
+How are things organized? The scratch collector.
+
+## Conclusion
+
+Public vs. personal archives. 
