@@ -69,49 +69,6 @@ distinction between the healthy and sick. The archive of peer-reviewed
 scientific publication separates meaningful knowledge from rumor or mere
 speculation.
 
-The archive is composed of *records*. From the infinitude of possible
-descriptions about reality, the record preserves that which is important.
-Think of an obvious example, like a police report. A police report captures
-the details relevant to an incident. Police officers who would write a novel
-at the scene of an accident would be dismissed of their duties. The archiving
-practice of law enforcement requires records of a particular kind. The archive
-of a novelist will contain documents drastically different than those of a
-police report or a medical record. The archive creates answers for questions
-like "What constitutes an event?" The police report consists of accidents and
-violations. The medical record consists of symptoms and diagnoses. The
-literary record contains documents relevant to the author's output. In
-selecting the important events, or what constitutes an event, the archive
-constructs a sense of time. Archival time is made up of records.
-
-In this disparity between everything that can be recorded and the much smaller
-subset of details that are actually recorded lies the normative power of an
-archive. The archive projects value, because it contains documents that
-privilege certain facts over others, reflecting modes of seeing the world that
-comply with an archive's collection policy. Consider the QZAP collection
-policy, for example. It includes first, a definition of what a "zine" is: "a
-self-published, small circulation, non-commercial booklet or magazine, usually
-produced by one person or a few individuals." Then it narrows that definition
-to the notion of a "queer zine," a self-published document related to
-"people's expression of gender and sexuality" in a long list of
-self-identified categories that include:
-
-> queer, kweer, gay, lesbian, bi, bisexual, fag, faggot, dyke, trans, tranny,
-queen, king, princess, Nancy boy, Brucey Boy, nelly, femme, butch, bulldagger,
-bulldyke, polyamorous, pansexual, omnisexual, asexual, homo, Saphist, faerie,
-and of course Friend of Dorothy.
-
-The list of the kind of materials that the archive is interested in preserving
-further includes a number of themes related to:
-
-> sex, same-gender sex, same-gender love, same-gender attraction/desire,
-> gender, transgender issues, bisexuality, sexual health, HIV/AIDS, STI's
-> (STDs), safer sex, music, popular culture, feminism, activism, politics,
-> racism, classism, fat phobia, ageism, traveling, anti-assimilationism, art,
-> DIY (do-it-yourself), comics/comix, erotica/porn, journaling/diary zines,
-> manifestos, [and] poetry.
-
-The National Archives of the United Kingdom
-
 Can there be an archive without records or documents? Do the contents of my
 pocket---my keys, some change, a crumpled receipt, a piece of
 lint---constitute an archive of a kind? What isn't an archive? I would argue
@@ -119,6 +76,8 @@ here that an archive requires at least these three components: first, a number
 of documents or artifacts to be collected; second a place to store them; and
 third, a system of organization. Let us examine each of these archival
 components in its turn.
+
+## Records
 
 An archive without records, documents, or objects would be an archive in the
 name only. We could call it "the library of nothing" but for all purposes it
@@ -139,6 +98,63 @@ archive? Or do they become an archive once they are discovered and cataloged?
 The catalog is what gives the collection its order. Without the catalog a
 pile of papers on my disk is just a pile. The catalog describes the documents
 and, most importantly, it tells us how and where to find them.
+The archive is composed of *records*. From the infinitude of possible
+descriptions about reality, the record preserves that which is important.
+Think of an obvious example, like a police report. A police report captures
+the details relevant to an incident. Police officers who would write a novel
+at the scene of an accident would be dismissed of their duties. The archiving
+practice of law enforcement requires records of a particular kind. The archive
+of a novelist will contain documents drastically different than those of a
+police report or a medical record. The archive creates answers for questions
+like "What constitutes an event?" The police report consists of accidents and
+violations. The medical record consists of symptoms and diagnoses. The
+literary record contains documents relevant to the author's output. In
+selecting the important events, or what constitutes an event, the archive
+constructs a sense of time. Archival time is made up of records.
+
+In this disparity between everything that can be recorded and the much smaller
+subset of details that are actually recorded lies the normative power of an
+archive. The archive projects value, because it contains documents that
+privilege certain facts over others, reflecting modes of seeing the world that
+comply with an archive's collection policy. The National Archives of the
+United Kingdom recommend an archive's collection policy further to include
+"information which identifies the repository and the governing body,"
+"information about the legal status of the repository or other source of its
+authority to collect," "information about the scope of, or limitations to, the
+[collection] policy," "information about the process of collection," and
+"information concerning access." The collection policy of the National
+Archives itself defines the role of the institution in terms of collecting and
+"records from all government departments and bodies whose records are public
+records under the Public Record's Act" [@ p5]. It further continues to
+identify an interest collecting "public records of historical value and
+enduring public interest," which include among other kinds of material
+"significant records concerning international relations and defence," "records
+of commissions, tribunals, and inquiries," and "case files, datasets and other
+records which contain extensive information about the lives of individual or
+groups [...] which contribute substantially to public knowledge and
+understanding of the people and communities of the UK" [@ 6-7].
+
+Consider QZAP's collection policy in comparison. It includes first, a
+definition of what a "zine" is: "a self-published, small circulation,
+non-commercial booklet or magazine, usually produced by one person or a few
+individuals." Then it narrows that definition to the notion of a "queer zine,"
+a self-published document related to "people's expression of gender and
+sexuality" in a long list of self-identified categories that include:
+
+> queer, kweer, gay, lesbian, bi, bisexual, fag, faggot, dyke, trans, tranny,
+queen, king, princess, Nancy boy, Brucey Boy, nelly, femme, butch, bulldagger,
+bulldyke, polyamorous, pansexual, omnisexual, asexual, homo, Saphist, faerie,
+and of course Friend of Dorothy.
+
+The list of the kind of materials that the archive is interested in preserving
+further includes a number of themes related to:
+
+> sex, same-gender sex, same-gender love, same-gender attraction/desire,
+> gender, transgender issues, bisexuality, sexual health, HIV/AIDS, STI's
+> (STDs), safer sex, music, popular culture, feminism, activism, politics,
+> racism, classism, fat phobia, ageism, traveling, anti-assimilationism, art,
+> DIY (do-it-yourself), comics/comix, erotica/porn, journaling/diary zines,
+> manifestos, [and] poetry.
 
 You can begin to understand now why in thinking about archives I evoked not
 only the obvious few public archives like the state library, but also the
@@ -150,10 +166,6 @@ meta-data---tags, file names, a method of organized storage and retrieval.
 Once the purview of large institutions, the archive is now ubiquitous. We are
 all archivists, in a sense, engaged in the activity of capturing, storing, and
 sorting records.
-
-## Documents
-
-What gets preserved? Collective memory. 
 
 The dream of preserving everything.  Projection of value and power.
 
@@ -167,7 +179,4 @@ Shadow Libraries
 
 How are things organized? The scratch collector.
 
-## Conclusion
-
-Public vs. personal archives. 
-## Further Readeing
+## Further Reading
