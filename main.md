@@ -74,10 +74,7 @@ pocket---my keys, some change, a crumpled receipt, a piece of
 lint---constitute an archive of a kind? What isn't an archive? I would argue
 here that an archive requires at least these three components: first, a number
 of documents or artifacts to be collected; second a place to store them; and
-third, a system of organization. Let us examine each of these archival
-components in its turn.
-
-## Records
+third, a system of organization.
 
 An archive without records, documents, or objects would be an archive in the
 name only. We could call it "the library of nothing" but for all purposes it
@@ -95,22 +92,28 @@ Genizah, have existed to house worn-out documents since the ancient times. The
 discovery of such rooms have led to important contributions to the study of
 liturgy and poetry in Judaic studies. But do the Genizah constitute an
 archive? Or do they become an archive once they are discovered and cataloged?
-The catalog is what gives the collection its order. Without the catalog a
-pile of papers on my disk is just a pile. The catalog describes the documents
-and, most importantly, it tells us how and where to find them.
-The archive is composed of *records*. From the infinitude of possible
-descriptions about reality, the record preserves that which is important.
-Think of an obvious example, like a police report. A police report captures
-the details relevant to an incident. Police officers who would write a novel
-at the scene of an accident would be dismissed of their duties. The archiving
-practice of law enforcement requires records of a particular kind. The archive
-of a novelist will contain documents drastically different than those of a
-police report or a medical record. The archive creates answers for questions
-like "What constitutes an event?" The police report consists of accidents and
-violations. The medical record consists of symptoms and diagnoses. The
-literary record contains documents relevant to the author's output. In
-selecting the important events, or what constitutes an event, the archive
-constructs a sense of time. Archival time is made up of records.
+The catalog is what gives the collection its order. Without the catalog a pile
+of papers on my disk is just a pile. The catalog describes the documents and,
+most importantly, it tells us how and where to find them. Document,
+architecture, and an epistemic order are all required to constitute an
+archive. Let us examine each of these archival components in its turn.
+
+## Documents
+
+The archive is composed of *documents*---that is, physical objects of record.
+From the infinitude of possible descriptions about reality, the record
+preserves that which is important.  Think of an obvious example, like a police
+report. A police report captures the details relevant to an incident. Police
+officers who would write a novel at the scene of an accident would be
+dismissed of their duties. The archiving practice of law enforcement requires
+records of a particular kind. The archive of a novelist will contain documents
+drastically different than those of a police report or a medical record. The
+archive creates answers for questions like "What constitutes an event?" The
+police report consists of accidents and violations.  The medical record
+consists of symptoms and diagnoses. The literary record contains documents
+relevant to the author's output. In selecting the important events, or what
+constitutes an event, the archive constructs a sense of time. Archival time is
+made up of records.
 
 In this disparity between everything that can be recorded and the much smaller
 subset of details that are actually recorded lies the normative power of an
@@ -156,20 +159,42 @@ further includes a number of themes related to:
 > DIY (do-it-yourself), comics/comix, erotica/porn, journaling/diary zines,
 > manifestos, [and] poetry.
 
-You can begin to understand now why in thinking about archives I evoked not
-only the obvious few public archives like the state library, but also the
-numerous small private archives that increasingly house details of our
-everyday life. A collection of home photographs on a personal computer answers
-all of our minimal definitions of an archive. It consists of documents,
-collected in a specially alloted for them space, and described with
+The collection policy identifies, in the words of Achille Mbembe "a process
+which converts a certain number of documents into items judged to be worthy of
+preserving" [@mbembe_power_2012, 20]. Because of this selectionally role, the
+archive cannot be treated as a neutral site of knowledge consumption. Rather,
+Ann Stoler and others have argued, readers should treat the archive as a site
+of knowledge *production* [@stoler_along_2009] In selecting what documents to
+preserve, the archive makes evidence available to the historical record.
+Histories are woven from that evidence. The records that do not make it into
+the archive, become less readily accessible or not accessible at all. They
+fall out of history.
+
+## Architecture
+
+Space is the limitation on the scope of an archive's activity. The limitation
+of space is what gives the archive its normative powers. Were an archive to
+house everything available, its archivists need not exercise their powers of
+discernment. They would collect it all. It seems tempting then to understand
+digital archives to be free of space constraint. The mission statement of
+Google, one of the world's most popular search engines, describes the company
+mission to "organize the world's information and make it universally
+accessible and useful" [@google]. Unlike the collection statements we have
+read above, Google's seem to lack the principle of selection.
+
+You can begin to understand now why in thinking about archives I
+evoked not only the obvious few public archives like the state library, but
+also the numerous small private archives that increasingly house details of
+our everyday life. A collection of home photographs on a personal computer
+answers all of our minimal definitions of an archive. It consists of
+documents, collected in a specially alloted for them space, and described with
 meta-data---tags, file names, a method of organized storage and retrieval.
 Once the purview of large institutions, the archive is now ubiquitous. We are
 all archivists, in a sense, engaged in the activity of capturing, storing, and
 sorting records.
 
-The dream of preserving everything.  Projection of value and power.
+The dream of preserving everything.
 
-## Architecture
 
 Who gets access? How? Is there a guard at the door? Do you get searched? How
 are the rooms arranged?
