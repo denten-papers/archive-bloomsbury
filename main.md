@@ -48,26 +48,28 @@ publicly and privately supported collections like the Library of Congress and
 the Guggenheim Museum. These are large public archives, preserving art and
 rooks, public in the sense of a collective enterprise (not necessarily
 funding). They represent a vision of communal remembrance. It is *a* vision,
-however, not *the* vision. Someone, somewhere made a decision about what to
-archive and where. State-sanctioned archives reflect the priorities of a
-bureaucracy, resulting in archives like the State Archive of the Russian
-Federation, Ottoman Archives, New York State Archives, West Indies Federal
-Archives Centre, and China's Central Archives among many others. Smaller,
-grass-roots public archives are often maintained by independent organizations
-like the *Archiv der Jungendkulturen* in Berlin or the North American Queer
-Zine Archive Project (QZAP) out of Minneapolis, Minnesota.
+however, not *the* vision. It must not be mistaken for history or for reality
+[@lacapra_history_1985; @spivak_rani_1985]. Someone, somewhere made a decision
+about what to archive and where.  State-sanctioned archives reflect the
+priorities of a bureaucracy, resulting in archives like the State Archive of
+the Russian Federation, Ottoman Archives, New York State Archives, West Indies
+Federal Archives Centre, and China's Central Archives among many others.
+Smaller, grass-roots public archives are often maintained by independent
+organizations like the *Archiv der Jungendkulturen* in Berlin or the North
+American Queer Zine Archive Project (QZAP) out of Minneapolis, Minnesota.
 
 Other dynamics come into play when the archives grow from islands to
 continents of knowledge. In the state archive we begin to think about the
-forces of inclusion and exclusion. Who is allowed to enter and who isn't?
-Which materials are worthy preservation and which are relegated to the heap of
-perishable ephemera? In this way archives can amplify certain historical
-narratives while suppressing others. The archive by its very logic projects
-the logic of distinction. The archive of the court differentiates between
-criminals and law-abiding citizens. The archive of the hospital embodies the
-distinction between the healthy and sick. The archive of peer-reviewed
-scientific publication separates meaningful knowledge from rumor or mere
-speculation.
+forces of inclusion and exclusion [@richards_imperial_1993;
+@greetham_whos_1999]. Who is allowed to enter and who isn't?  Which materials
+are worthy preservation and which are relegated to the heap of perishable
+ephemera? In this way archives can amplify certain historical narratives while
+suppressing others. The archive by its very logic projects the logic of
+distinction. The archive of the empire casts divisions between center and
+periphery. The archive of the court differentiates between criminals and
+law-abiding citizens. The archive of the hospital embodies the distinction
+between the healthy and sick. The archive of peer-reviewed scientific
+publication separates meaningful knowledge from rumor or mere speculation.
 
 Can there be an archive without records or documents? Do the contents of my
 pocket---my keys, some change, a crumpled receipt, a piece of
@@ -98,7 +100,7 @@ most importantly, it tells us how and where to find them. Document,
 architecture, and an epistemic order are all required to constitute an
 archive. Let us examine each of these archival components in its turn.
 
-## Documents
+## Document
 
 The archive is composed of *documents*---that is, physical objects of record.
 From the infinitude of possible descriptions about reality, the record
@@ -172,36 +174,108 @@ fall out of history.
 
 ## Architecture
 
-Space is the limitation on the scope of an archive's activity. The limitation
-of space is what gives the archive its normative powers. Were an archive to
-house everything available, its archivists need not exercise their powers of
+Space limits the scope of an archive's activity. The limitation of space is
+what gives the archive its normative powers. Were an archive to house
+everything available, its archivists need not exercise their powers of
 discernment. They would collect it all. It seems tempting then to understand
 digital archives to be free of space constraint. The mission statement of
-Google, one of the world's most popular search engines, describes the company
-mission to "organize the world's information and make it universally
-accessible and useful" [@google]. Unlike the collection statements we have
-read above, Google's seem to lack the principle of selection.
+Google, one of the world's most popular search engines, describes the
+company's goal to "organize the world's information and make it universally
+accessible and useful" [@_about_2016]. Unlike the collection statements we
+have read above, Google's archiving activity seems to lack the principle of
+selection. A number of people in the so-called "life-logging" movement,
+believe that technology has enabled us to remember everything and that we are
+entering the age of total recall. Gordon Bell, an advocate of this movement,
+writes:
 
-You can begin to understand now why in thinking about archives I
-evoked not only the obvious few public archives like the state library, but
-also the numerous small private archives that increasingly house details of
-our everyday life. A collection of home photographs on a personal computer
-answers all of our minimal definitions of an archive. It consists of
-documents, collected in a specially alloted for them space, and described with
+> If you choose, everything you see can be automatically photographed and
+spirited away into your personal image library within your e-memory.
+Everything you hear can be saved as digital audio files. Software can allow
+you to scan your pictures for writing and your audio files for words to come
+up with searchable text transcripts of your life. If you choose, you can save
+every e-mail you send and receive and archive every Web page you visit. You
+can record your location and path through the world. You can record every rise
+and dip in your heart rate, body temperature, blood sugar, anxiety, arousal,
+and alertness, and log them into your personal health file.
+
+You can begin to understand now why in thinking about archives I evoked not
+only the obvious few public archives like the state library, but also the
+numerous small private archives that increasingly house details of our
+everyday life. A collection of home photographs on a personal computer answers
+all of our minimal definitions of an archive. It consists of documents,
+collected in a specially alloted for them space, and described with
 meta-data---tags, file names, a method of organized storage and retrieval.
 Once the purview of large institutions, the archive is now ubiquitous. We are
 all archivists, in a sense, engaged in the activity of capturing, storing, and
 sorting records.
 
-The dream of preserving everything.
+One cannot deny that the ubiquity of inexpensive storage media is changing the
+society's relationship with its archives. If we are to record everything on
+our own, what role will sanctioned archives play in the formation of
+collective memory? We cannot forget also that despite the evanescent
+appearances, digital archives too have their place. At some point, our
+ephemeral capture, sharing, and storage activity meets the concrete realities
+of digital storage. All those photographs, videos, sound files, and texts gain
+a hefty material presence in aggregate. The very metaphor of "cloud" storage
+obscures the realities of massive data centers, housed in secure bunkers,
+under surveillance [@hu_prehistory_2015]. The exclusionary principle returns
+with a vengeance. In many cases, the digital archive is not a public archive,
+at least no in the sense of a public library. The public does not usually have
+direct access to digitally archived information at the site of its
+inscription. Law sometimes prohibits even the circumvention of the security
+mechanisms contained in one's own devices [@ginsburg_legal_2005]. The physical
+architecture of the archive ultimately governs access to information. This
+holds true for brick and mortar archives just as it does for digital ones. A
+critical approach to understanding any archive must include the examination of
+physical barriers to entry and exit. For example, the utopian vision of total
+recall excludes global populations without access to the internet and those
+who access the internet through low-fidelity connections on tiny screens and
+in internet cafés on rented machines [@qiu_working-class_2009;
+@wyche_facebook_2013; @mariscal_aviles_informational_2016].
 
+## Catalog
 
-Who gets access? How? Is there a guard at the door? Do you get searched? How
-are the rooms arranged?
-Shadow Libraries
+The taxonomy, or the way of organizing information, constitutes another axis
+of exclusion in the archive. What happens to documents that are archived, but
+not cataloged? Such documents are lost to time. They are technically in the
+archive, but practically inaccessible. In this way, the document within the
+archive relates not only to the concrete architecture of the building that
+houses the archive but also to the epistemological architecture of the
+catalog. The catalog locates the document in the ideational space, just as the
+building---stacks and bookshelves---locates it in the physical. To be lost in
+one is to be lost in the other. Thus in addition to asking What was collected?
+and How is it accessed? we should also ask, How is it organized? What logics,
+what epistemological regimes govern the order 
 
-## Metadata
+The advent of powerful computational archive technologies---databases,
+indexers, crawlers---precipitated a shift from the 
 
-How are things organized? The scratch collector.
+## Suggested Reading
 
-## Further Reading
+Derrida, Jacques, and Eric Prenowitz. 1995. "Archive Fever: A Freudian
+Impression." *Diacritics* 25 (2): 9–63.
+
+Gitelman, Lisa. 2014. *Paper Knowledge: Toward a Media History of Documents*.
+North Carolina: Duke University Press.
+
+Hamilton, Carolyn, Verne Harris, Michèle Pickover, Graeme Reid, Razia Saleh,
+and Jane Taylor. 2012. *Refiguring the Archive*. Springer Science & Business
+Media.
+
+Mayer-Schönberger, Viktor. 2009. *Delete: The Virtue of Forgetting in the
+Digital Age*. Princeton: Princeton University Press.
+
+Richards, Thomas. 1993. *The Imperial Archive: Knowledge and the Fantasy of
+Empire*. London, New York: Verso.
+
+Stoler, Ann Laura. 2009. *Along the Archival Grain: Epistemic Anxieties and
+Colonial Common Sense*. Princeton, NJ: Princeton University Press.
+
+Vismann, Cornelia, and Geoffrey Winthrop-Young. 2008. *Files: Law and Media
+Technology*. Stanford, Calif.: Stanford University Press.
+
+Qiu, Jack Linchuan. 2009. *Working-Class Network Society Communication
+Technology and the Information Have-Less in Urban China*. Cambridge, Mass.:
+MIT Press.
+
+## Bibliography
