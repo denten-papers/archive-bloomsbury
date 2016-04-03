@@ -248,10 +248,10 @@ and How is it accessed? we should also ask, How is it organized? What logics
 and what epistemological regimes govern the order of documents in the
 archive?
 
-The advent of powerful computational archive technologies---databases,
-indexers, crawlers---has transformed the nature of the catalog. Before
-computers, archivists relied on systems of social filtration or organize their
-materials. Ask yourself this: How did you find the chapter in front of you?
+The advent of powerful computational archive technologies---crawlers indexers,
+classifiers---has transformed the nature of the catalog. Before computers,
+archivists relied on systems of social filtration or organize their materials.
+Ask yourself this: How did you find the chapter in front of you?
 Traditionally, search and discovery of new information was facilitated by
 complex processes of canon formation. One finds a book or a film because it is
 assigned in class, because it was advertised, because a friend recommended it,
@@ -262,11 +262,62 @@ of the book store dedicated to fantasy, classics, detective fiction, and so
 on. In the isles of a book store we once again observe the close entanglement
 of document, architecture, and epistemology. Classification lies at the heart
 of library science [@robinson_rhizome_2010]. The Dewey Decimal Classification
-system, for example, has guided the 
+system, for example, has guided the organization of libraries by subjects for
+over a century. This way of organizing material aids in discovery: a library
+patron looking for a specific book finds a shelf of books on a similar topic.
+An way of organizing material by alphabet or by size alone would result in
+different kind of discovery. Classification systems provide the scaffolding
+for everyday knowledge work . It is a difficult thing to perceive because it
+is ubiquitous and often invisible [@bowker_sorting_1999]. But think of the
+various classification systems that surround our daily life: the physician
+classifies according to a list of available diagnoses and billable insurance
+codes, the judge classifies according to the legal categories, the academic
+classifies according to scientific categories, students structure their days
+according to the course catalog.
 
-[@bowker_sorting_1999].
+The job of an archivist involves classification---an activity that projects
+order among documents and architectures. One can think of classification as
+the way of organizing things, a way of placing documents in accord with the
+spatial requirements of storage. Classification converts mental, ideational
+categories into spatial arrangements of things, which together make up the
+archive. Jacques Derrida has called this organizing activity the power of
+*consignation*. He wrote:
 
-Re search engine [@pasquale_hidden_2015].
+> By consignation, we do not only mean, in the ordinary sense of the word, the
+> act of consigning residence or of entrusting so as to put into a reserve (to
+> consign, to deposit), in a place and on a substrate, but here the act of
+> consigning and through *gathering together signs* [...] Consignation aims to
+> to coordinate a single corpus, in a system of synchrony in which all the
+> elements articulate the unity of an ideal configuration
+> [@derrida_archive_1995, 10].
+
+In maintaining order, the archivist imposes a structure on the world, creating
+an organizing space within the archive and relegating perceived discarder
+without. The traditional archive collection thrives on the logic of exclusion:
+some things are in, others are out. In addition to preserving
+things---documents, artifacts, records, evidence---the archivist preserves a
+taxonomy---a lexicon, a way of ordering things. The archivist of the future
+may look at our libraries and wonder at the strange, simplistic perhaps, alien
+ways in which we have organized our stuff.[^foucault]
+
+The principle of exclusion operates by different logics in the age of
+ubiquitous connectivity, cheap storage, and social media. The role of a
+culture critic is subsumed by the wisdom of the crowd. Instead of trusting one
+"expert" opinion, we increasingly rely on the aggregate opinions of many,
+through reviews and recommendations: if you like this you may also like this,
+others who liked X also usually like Y. The archive begins to contain multiple
+logics, multiple systems of classification that compete, undermine, and
+strengthen each other. The classification system is no longer the work of a
+single man, John Dewey; archive dwellers bring with them their own tags and
+categories. The digital archive encourages its participants to engage in this
+organizing activity. It extracts value from it.
+
+Crawlers, indexers, classifiers.
+
+[^foucault]: In this regard see the Preface in @foucault_order_1971, xv-xxiv.
+
+ Re search engine
+[@pasquale_hidden_2015].
 
 ## Suggested Reading
 
