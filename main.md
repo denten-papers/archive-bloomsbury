@@ -248,46 +248,48 @@ of the archive itself implies something left out.
 The taxonomy, or the way of organizing information, constitutes another axis
 of exclusion in the archive. What happens to documents that are archived, but
 not cataloged? Such documents are lost to time. They are technically in the
-archive, but practically inaccessible. In this way, the document within the
-archive relates not only to the concrete architecture of the building that
-houses the archive but also to the epistemological architecture of the
-catalog. The catalog locates the document in the ideational space, just as the
-building---stacks and bookshelves---locates it in the physical. To be lost in
-one is to be lost in the other. Thus in addition to asking What was collected?
-and How is it accessed? we should also ask, How is it organized? What logics
-and what epistemological regimes govern the order of documents in the
-archive?
+archive, but practically inaccessible. In this way, a document within the
+archive relates not only to physical space but also to the epistemological
+architecture of the catalog. The catalog locates the document in the
+ideational space, just as the building---stacks and bookshelves---locates it
+in the physical. To be lost in one is to be lost in the other. Thus in
+addition to asking What was collected? and How is it accessed? we should also
+ask, How is it organized? What logics and what epistemological regimes govern
+the order of documents in the archive?
 
 The advent of powerful computational archive technologies---crawlers indexers,
-classifiers---has transformed the nature of the catalog. Before computers,
-archivists relied on systems of social filtration or organize their materials.
-Ask yourself this: How did you find the chapter in front of you?
-Traditionally, search and discovery of new information was facilitated by
-complex processes of canon formation. One finds a book or a film because it is
-assigned in class, because it was advertised, because a friend recommended it,
-or the recommendation came from a critic. These social mechanisms of
-filtration reify into epistemological categories. Thus a reflection on the
-genre of a novel by book critics and book sellers alike results in the isles
-of the book store dedicated to fantasy, classics, detective fiction, and so
-on. In the isles of a book store we once again observe the close entanglement
-of document, architecture, and epistemology. Classification lies at the heart
-of library science [@robinson_rhizome_2010]. The Dewey Decimal Classification
-system, for example, has guided the organization of libraries by subjects for
-over a century. This way of organizing material aids in discovery: a library
-patron looking for a specific book finds a shelf of books on a similar topic.
-An way of organizing material by alphabet or by size alone would result in
-different kind of discovery. Classification systems provide the scaffolding
-for everyday knowledge work . It is a difficult thing to perceive because it
-is ubiquitous and often invisible [@bowker_sorting_1999]. Think of the various
-classification systems that surround our daily life: the physician classifies
-according to a list of available diagnoses and billable insurance codes, the
-judge classifies according to the legal categories, the academic classifies
-according to scientific categories, students structure their days according to
-the course catalog.
+and classifiers---have transformed the nature of the catalog. Before
+computers, archivists relied on systems of social filtration or organize their
+materials. Ask yourself this: How did you find the movie you watched recently
+or even the chapter in front of you? Traditionally, search and discovery of
+new information was facilitated by complex processes of canon formation. One
+finds a book or a film because it is assigned in class, because it was
+advertised, because a friend recommended it, or the recommendation came from a
+critic. These social mechanisms of filtration reify into epistemological
+categories. Thus a reflection on genre by book critics and book sellers
+results in the isles of the book store dedicated to the genres of fantasy,
+classics, detective fiction, and so on. In the isles of a book store we once
+again observe the close entanglement of document, architecture, and
+epistemology.
+
+Classification lies at the heart of library science [@robinson_rhizome_2010].
+The Dewey Decimal Classification system, for example, has guided the
+organization of libraries by subjects for over a century. This way of
+organizing material aids in discovery: a library patron looking for a specific
+book finds a shelf of books on a similar topic. A way of organizing material
+by alphabet or by size alone would result in different kind of discovery.
+Classification systems provide the scaffolding for everyday knowledge work.
+They are difficult to perceive, however, because they are ubiquitous and often
+invisible [@bowker_sorting_1999]. Think of the various classification systems
+that surround our daily life: the physician classifies according to a list of
+available diagnoses and billable insurance codes, the judge classifies
+according to the legal categories, the academic classifies according to
+scientific categories, students structure their days according to the course
+catalog. Not often seen, the catalog is everywhere.
 
 The job of an archivist involves classification---an activity that projects
-order among documents and architectures. One can think of classification as
-the way of organizing things, a way of placing documents in accord with the
+order among documents and architectures. One can think of classification as a
+way of organizing things, a way of placing documents in accord with the
 spatial requirements of storage. Classification converts mental, ideational
 categories into spatial arrangements of things, which together make up the
 archive. Jacques Derrida has called this organizing activity the power of
@@ -302,87 +304,80 @@ archive. Jacques Derrida has called this organizing activity the power of
 > [@derrida_archive_1995, 10].
 
 In maintaining order, the archivist imposes a structure on the world, creating
-an organizing space within the archive and relegating perceived discarder
-without. The traditional archive collection thrives on the logic of exclusion:
-some things are in, others are out. In addition to preserving
+an organized space within the archive which. The archive draws a boundary
+between the ordered inside and the chaotic (by archival logic) and the
+disordered outside. A traditional archive collection thus thrives on the logic
+of exclusion: some things are in, others are out. In addition to preserving
 things---documents, artifacts, records, evidence---the archivist preserves a
 taxonomy---a lexicon, a way of ordering things. The archivist of the future
-may look at our libraries and wonder at the strange, simplistic perhaps, alien
-ways in which we have organized our stuff.[^foucault]
+may look at our libraries and wonder at the strange, simplistic perhaps, and
+alien ways in which we used to organize our stuff.[^foucault]
 
 The principle of exclusion operates by different logics in the age of
-ubiquitous connectivity, cheap storage, and social media. The role of a
-culture critic is subsumed by the wisdom of the crowd. Instead of trusting one
-"expert" opinion, we increasingly rely on the aggregate opinions of many,
-through reviews and recommendations: if you like this you may also like this,
-others who liked X also usually like Y. The archive begins to contain multiple
-logics, multiple systems of classification that compete, undermine, and
-strengthen each other. The classification system is no longer the work of a
-single man, John Dewey; archive dwellers bring with them their own tags and
-categories. The digital archive encourages its participants to engage in this
-organizing activity. The archive managers extract value from it. The digital
-archive retains the trace of archive dwelling. All visitors and inhabitants of
-the archive become archivists themselves. Their searching and organizing
-activity is further commodified to add value to the catalog.
+ubiquitous connectivity, cheap storage, algorithmic sorting, and social media.
+The role of a culture critic is subsumed by the wisdom of the crowd. Instead
+of trusting one "expert" opinion, we increasingly rely on the aggregate
+opinions of many, through reviews and recommendations: if you like this you
+may also like this, others who liked X also usually like Y. The archive begins
+to contain multiple logics, multiple systems of classification that compete,
+undermine, and strengthen each other. The classification system is no longer
+the work of a single man, John Dewey; archive dwellers bring with them their
+own tags and categories. The digital archive encourages its participants to
+engage in this organizing activity. The archive managers extract monetize
+tumultuous social engagement. The digital archive retains the trace of archive
+dwelling. All visitors and inhabitants of the archive become archivists
+themselves. Their searching and organizing activity is further commodified to
+extract value from the catalog.
 
-Furthermore, this inherently social activity is augmented by automated tools.
-Archivists in their own right, algorithmic crawlers, indexers, and classifiers
-learn from human behavior to collect, analyze, and catalog data on their own.
-Web crawlers follow links and disperse through the network to search for new
-material. Indexers begin the task of assigning keywords and categories.
-Supervised machine-learning classifiers apply existing categories, tagged by
-humans, to new collections. As the name implies, their task is to classify or
-to sort things into piles. These piles are then assigned labels that help
-humans sort through vast amounts of data. Unsupervised learning algorithms
-notice patterns that are not apparent to the human eye and mind. The so called
-"deep learning" algorithms mimic the neural structure of human brains to
-further aid in sorting and classification [@li_introduction_2008;
-@flach_machine_2012; @schmidhuber_deep_2015].
+Furthermore, the inherently social activity of archive dwelling is augmented
+by automated tools. Archivists in their own right, algorithmic crawlers,
+indexers, and classifiers learn from human behavior to collect, analyze, and
+catalog data on their own.[^crawl] Web crawlers follow links and disperse
+through the network to search for new material. Indexers begin the task of
+assigning keywords and categories. Supervised machine-learning classifiers
+apply existing categories, tagged by humans, to new collections. As the name
+implies, their task is to classify or to sort things into piles. These piles
+are then assigned labels that help humans sort through vast amounts of data.
+Unsupervised learning algorithms notice patterns that are not apparent to the
+human eye and mind. The so called "deep learning" heuristics mimic the neural
+structure of human brains to further aid in sorting and classification
+[@li_introduction_2008; @flach_machine_2012; @schmidhuber_deep_2015].
+
+[^crawl]: See for example @gupta_relevant_2013.
 
 The simple task of using a search engine to find a piece of information belies
 the complex realities of the digital archive. Advances in storage media
-coupled with computational technique have made it possible to imagine a near
-feature in which everything can be stored and everything can be organized. Yet
-the history of the archive tells us that the exclusionary principle will
-continue to operate as long as the archive remains an instrument of economic
-and political power. Machine intelligence extends and deepens human
-distinctions. Unlike a public archive, whose collection policies we can bring
-forth with a request, machine archivist operates opaquely, ushering what some
-have called the "black box society" and the "hidden logics of search"
-[@pasquale_hidden_2015]. These new computational realities of an archive
+coupled with novel computational methodologies have made it possible to
+imagine a near feature in which everything can be stored and everything can be
+organized. The history of the archive warns otherwise. The exclusionary
+principle will continue to operate as long as the archive remains an
+instrument of economic and political power. The larger and more inclusive the
+archive, the more appealing it becomes as an instrument for control and
+subjugation of its dwellers. Machine intelligence extends and deepens human
+distinctions. Unlike the archivist who labors in public and follows legible
+collection policies, the swarm of algorithmic machine archivists operate in
+the dark, usually without decree or consent. Archive dwellers are moving
+towards what some have called a "black box society," governed by the "hidden
+logics of search" [@pasquale_hidden_2015]. These new computational realities
 require archivists equipped with the sharp tools of critical theory,
-information science, and software engineering.
+information science, and software engineering. The sauntering iron and the
+binding needle may be needed to occupy free and equitable archives, archives
+that are built in the open, archives suitable for human habitation.
 
 [^foucault]: In this regard see the Preface in @foucault_order_1971, xv-xxiv.
 
 ## Suggested Reading
 
-Derrida, Jacques, and Eric Prenowitz. 1995. "Archive Fever: A Freudian
-Impression." *Diacritics* 25 (2): 9–63.
-
-Gitelman, Lisa. 2014. *Paper Knowledge: Toward a Media History of Documents*.
-North Carolina: Duke University Press.
-
-Mbembe, Achille. 2012. "The Power of the Archive and Its Limits." In
-*Refiguring the Archive*, 19–27. Springer Science & Business Media.
-
-Mayer-Schönberger, Viktor. 2009. *Delete: The Virtue of Forgetting in the
-Digital Age*. Princeton: Princeton University Press.
-
-Pasquale, Frank. 2015. "The Hidden Logics of Search." In *The Black Box
-Society: The Secret Algorithms That Control Money and Information*, 59–100.
-
-Richards, Thomas. 1993. *The Imperial Archive: Knowledge and the Fantasy of
-Empire*. London, New York: Verso.
-
-Stoler, Ann Laura. 2009. *Along the Archival Grain: Epistemic Anxieties and
-Colonial Common Sense*. Princeton, NJ: Princeton University Press.
-
-Vismann, Cornelia, and Geoffrey Winthrop-Young. 2008. *Files: Law and Media
-Technology*. Stanford, Calif.: Stanford University Press.
-
-Qiu, Jack Linchuan. 2009. *Working-Class Network Society Communication
-Technology and the Information Have-Less in Urban China*. Cambridge, Mass.:
-MIT Press.
+On the power of archives to create and to shelter themselves from memory read
+@derrida_archive_1995. @gitelman_paper_2014 and @vismann_files:_2008 examine
+documents and records from the perspective of media theory.
+@hamilton_refiguring_2012 is an important collection of essays on the archive
+in and beyond post-colonial studies. On the relationship between the archive
+and empire read @richards_imperial_1993; @mbembe_power_2012; and
+@peterson_power_2012. @qiu_working-class_2009 and @sundaram_pirate_2011 give
+the reader thorough ethnographic accounts of contemporary archival dwelling
+outside of Europe and North America. @mayer-schonberger_delete:_2009 and
+@pasquale_hidden_2015 explore the social and political consequences of
+algorithmic archive making.
 
 ## Bibliography
