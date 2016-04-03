@@ -179,16 +179,16 @@ historian. In a sense, they fall out of history.
 Space limits the scope of an archive's activity. The limitation of space is
 what gives the archive its normative powers. Were an archive to house
 everything available, its archivists need not exercise their powers of
-discernment. They would collect it all. It seems tempting then to understand
-digital archives to be free of space constraint. The mission statement of
-Google, one of the world's most popular search engines, describes the
-company's goal to "organize the world's information and make it universally
-accessible and useful" [@_about_2016]. Unlike the collection statements we
-have read above, Google's archiving activity seems to lack the principle of
-selection. A number of people in the so-called "life-logging" movement,
-believe that technology has enabled us to remember everything and that we are
-entering the age of total recall. Gordon Bell, an advocate of this movement,
-writes:
+discernment. They would collect it all. The apparent lightness of digital
+being tempts us to understand digital archives free of space constraints. The
+mission statement of Google, one of the world's most popular search engines,
+describes the company's goal to "organize the world's information and make it
+universally accessible and useful" [@_about_2016]. Unlike the collection
+statements we have read above, Google's archiving activity seems to lack the
+principle of selection. Similarly, a number of people in the so-called
+"life-logging" movement believe that technology has enabled us to remember
+everything and that we are entering the age of total recall. Gordon Bell, an
+advocate of this movement, writes:
 
 > If you choose, everything you see can be automatically photographed and
 spirited away into your personal image library within your e-memory.
@@ -198,42 +198,50 @@ up with searchable text transcripts of your life. If you choose, you can save
 every e-mail you send and receive and archive every Web page you visit. You
 can record your location and path through the world. You can record every rise
 and dip in your heart rate, body temperature, blood sugar, anxiety, arousal,
-and alertness, and log them into your personal health file.
+and alertness, and log them into your personal health file [@bell_total_2009,
+4].
 
 You can begin to understand now why in thinking about archives I evoked not
-only the obvious few public archives like the state library, but also the
+only an obvious few public archives like the state library, but also the
 numerous small private archives that increasingly house details of our
-everyday life. A collection of home photographs on a personal computer answers
-all of our minimal definitions of an archive. It consists of documents,
-collected in a specially alloted for them space, and described with
-meta-data---tags, file names, a method of organized storage and retrieval.
-Once the purview of large institutions, the archive is now ubiquitous. We are
-all archivists, in a sense, engaged in the activity of capturing, storing, and
-sorting records.
+everyday life. A collection of home photographs on a personal computer or a
+mobile phone answers all of our minimal definitions of an archive. It consists
+of cataloged documents, collected in especially alloted for them space. The
+documents are described with meta-data---tags, file names---constituting a
+method of organized storage and retrieval not so different from your local
+library catalog. Once the purview of large institutions, the archive is now
+ubiquitous. We are all archivists, in a sense, engaged in the activity of
+capturing, storing, and sorting documents of record.
 
 One cannot deny that the ubiquity of inexpensive storage media is changing the
 society's relationship with its archives. If we are to record everything on
 our own, what role will sanctioned archives play in the formation of
 collective memory? We cannot forget also that despite the evanescent
-appearances, digital archives too have their place. At some point, our
-ephemeral capture, sharing, and storage activity meets the concrete realities
-of digital storage. All those photographs, videos, sound files, and texts gain
-a hefty material presence in aggregate. The very metaphor of "cloud" storage
-obscures the realities of massive data centers, housed in secure bunkers,
-under surveillance [@hu_prehistory_2015]. The exclusionary principle returns
-with a vengeance. In many cases, the digital archive is not a public archive,
-at least no in the sense of a public library. The public does not usually have
-direct access to digitally archived information at the site of its
-inscription. Law sometimes prohibits even the circumvention of the security
-mechanisms contained in one's own devices [@ginsburg_legal_2005]. The physical
-architecture of the archive ultimately governs access to information. This
-holds true for brick and mortar archives just as it does for digital ones. A
-critical approach to understanding any archive must include the examination of
-physical barriers to entry and exit. For example, the utopian vision of total
-recall excludes global populations without access to the internet and those
-who access the internet through low-fidelity connections on tiny screens and
-in internet cafés on rented machines [@qiu_working-class_2009;
-@wyche_facebook_2013; @mariscal_aviles_informational_2016].
+appearances, digital archives too answer have their place. At some point, the
+ephemeral-seeming activity of capturing, sharing, and storing information must
+meet the concrete realities of digital storage. All those photographs, videos,
+sound files, and texts gain a hefty material presence in aggregate. The very
+metaphor of "cloud" storage obscures the realities of massive data centers,
+housed in secure bunkers, under surveillance [@hu_prehistory_2015]. The
+exclusionary principle returns with a vengeance. In many cases, the digital
+archive is not a public archive, at least not in the sense of a public
+library. The public does not usually have direct access to digitally archived
+information at the site of its inscription. Law sometimes prohibits even the
+circumvention of those security mechanisms contained in one's own devices
+[@ginsburg_legal_2005].
+
+The physical architecture of archives ultimately governs access to
+information. This holds true for brick and mortar archives just as it does for
+digital ones. A critical approach to studying archives must include the
+examination of physical barriers to entry and exit. Under closer examination,
+we understand the utopian vision of total recall to exclude global populations
+without access to the internet and those who access the internet through
+low-fidelity connections on tiny screens and in internet cafés on rented
+machines [@qiu_working-class_2009; @wyche_facebook_2013;
+@mariscal_aviles_informational_2016]. The archive does not provide neutral
+grounds for the storage and access to information. Because the archive cannot
+be commensurate with the passing reality that it attempts to capture, the idea
+of the archive itself implies something left out.
 
 ## Catalog
 
