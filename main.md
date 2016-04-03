@@ -1,23 +1,17 @@
----
-title: Archive
-author: Dennis Yi Tenen
-
----
-
 An archive can be as large as a library or as small as a bookshelf. What are
-the minimal requirements to build an archive? How is a pile of haphazardly
+the minimal requirements to build an archive? How does a pile of haphazardly
 arranged papers differ from an archive? Look around you and notice the
-furniture, navigate through your mobile device where you keep your notes and
+furniture; navigate through your mobile device where you keep your notes and
 your photos. Think of your social media usage, your habits of correspondence,
 the way you keep in touch with your family and friends, the habits of keeping
 a journal, taking notes, finding basic facts about the world. All of these
 involve an archive of some kind. We are surrounded by archives; we live in
 them and through them. Archives mediate. Like water for fish, they form the
 medium of our knowledge gathering and finding activity. If, as the headlines
-tell us, we live in an information age, the archive is a way of making sense
-of that information. More than making sense, they help keep information *at
-hand*, to handle it, pour over, organize, and process. To archive is not just
-a mental activity, in other words, it is physical as well. An archive is a way
+tell us, we live in an information age, archives are a way of making sense of
+that information. More than making sense, they help keep information *at
+hand*, handle it, pour over, organize, and process. To archive is not just a
+mental activity, in other words, it is physical as well. An archive is a way
 of ordering things.
 
 The archive is also an interface between internal mental states---what I know
@@ -38,25 +32,26 @@ disturbs our archives: if someone were to reorganize your music collection for
 example, or scramble the order of your notes, or rearrange the books on your
 bookshelf. One feels lost and violated precisely because the archive is so
 crucial to our ability to find our way through a forest of data. It is a
-small, organized space of private order in the chaos of information.
+small, organized space of private order within the chaos of information.
 
 Not all islands of order are small and private. Some islands grow into
 empires: state archives that project collective power. The aggregate of
 personal memories gives us our shared, cultural memory, our heritage. That
-sense of shared culture does not exist in the ether. It is reflected in
-publicly and privately supported collections like the Library of Congress and
-the Guggenheim Museum. These are large public archives, preserving art and
-rooks, public in the sense of a collective enterprise (not necessarily
-funding). They represent a vision of communal remembrance. It is *a* vision,
-however, not *the* vision. It must not be mistaken for history or for reality
-[@lacapra_history_1985; @spivak_rani_1985]. Someone, somewhere made a decision
-about what to archive and where.  State-sanctioned archives reflect the
-priorities of a bureaucracy, resulting in archives like the State Archive of
-the Russian Federation, Ottoman Archives, New York State Archives, West Indies
-Federal Archives Centre, and China's Central Archives among many others.
-Smaller, grass-roots public archives are often maintained by independent
-organizations like the *Archiv der Jungendkulturen* in Berlin or the North
-American Queer Zine Archive Project (QZAP) out of Minneapolis, Minnesota.
+sense of shared culture does not exist in the immaterial ether. It is
+reflected in publicly and privately supported collections like the Library of
+Congress and the Guggenheim Museum. These are large public archives,
+preserving art and books---public in the sense of a collective enterprise (not
+necessarily funding). They represent a vision of communal remembrance. It is
+*a* vision, however, not *the* vision. It must not be mistaken for history or
+for reality [@lacapra_history_1985; @spivak_rani_1985]. Someone, somewhere
+made a decision about what to archive and where.  State-sanctioned collections
+reflect the priorities of a bureaucracy, resulting in archives like the State
+Archive of the Russian Federation, Ottoman Archives, New York State Archives,
+West Indies Federal Archives Centre, and China's Central Archives among many
+others.  Smaller, grass-roots public archives are often maintained by
+independent organizations like the *Archiv der Jungendkulturen* in Berlin or
+the North American Queer Zine Archive Project (QZAP) out of Minneapolis,
+Minnesota.
 
 Other dynamics come into play when the archives grow from islands to
 continents of knowledge. In the state archive we begin to think about the
@@ -64,8 +59,8 @@ forces of inclusion and exclusion [@richards_imperial_1993;
 @greetham_whos_1999]. Who is allowed to enter and who isn't?  Which materials
 are worthy preservation and which are relegated to the heap of perishable
 ephemera? In this way archives can amplify certain historical narratives while
-suppressing others. The archive by its very logic projects the logic of
-distinction. The archive of the empire casts divisions between center and
+suppressing others. By its very design the archive conveys the logic of
+differentiation. The archive of the empire casts divisions between center and
 periphery. The archive of the court differentiates between criminals and
 law-abiding citizens. The archive of the hospital embodies the distinction
 between the healthy and sick. The archive of peer-reviewed scientific
@@ -78,10 +73,10 @@ here that an archive requires at least these three components: first, a number
 of documents or artifacts to be collected; second a place to store them; and
 third, a system of organization.
 
-An archive without records, documents, or objects would be an archive in the
+An archive without records, documents, or artifacts would be an archive in the
 name only. We could call it "the library of nothing" but for all purposes it
 would resemble an empty room; it would be a promise of an archive---that is,
-the promise of records, documents, or objects to come. Could we imagine an
+the promise of records, documents, or artifacts to come. Could we imagine an
 archive without space? A virtual collection perhaps? Again, the question seems
 nonsensical. A virtual archive, a website for example, is still a collection
 of something occupying the same space, however virtual. An archive of
@@ -92,30 +87,35 @@ index? Again, it seems not. In the Jewish tradition, holy texts like the Torah
 are not to be discarded. For this reason, special sealed rooms, called the
 Genizah, have existed to house worn-out documents since the ancient times. The
 discovery of such rooms have led to important contributions to the study of
-liturgy and poetry in Judaic studies. But do the Genizah constitute an
-archive? Or do they become an archive once they are discovered and cataloged?
-The catalog is what gives the collection its order. Without the catalog a pile
-of papers on my disk is just a pile. The catalog describes the documents and,
-most importantly, it tells us how and where to find them. Document,
-architecture, and an epistemic order are all required to constitute an
-archive. Let us examine each of these archival components in its turn.
+liturgy and poetry in Judaic studies [@schechter_genizah_1998;
+@schmelzer_contribution_1997]. But do the Genizah constitute an archive? Or do
+they become an archive once they are discovered and cataloged? The catalog is
+what gives the collection its order. Without the catalog a pile of papers on
+my disk is just a pile. Add a catalog and it becomes an archive. The catalog
+describes the documents and, most importantly, it tells us how and where to
+find them. Document, architecture, and an epistemic order are all required to
+constitute an archive. Let us examine each of these archival components in its
+turn.
 
 ## Document
 
 The archive is composed of *documents*---that is, physical objects of record.
 From the infinitude of possible descriptions about reality, the record
-preserves that which is important.  Think of an obvious example, like a police
-report. A police report captures the details relevant to an incident. Police
-officers who would write a novel at the scene of an accident would be
+preserves that which is important.[^record] Think of an obvious example, like
+a police report. A police report captures the details relevant to an incident.
+Police officers who would write a novel at the scene of the crime would be
 dismissed of their duties. The archiving practice of law enforcement requires
-records of a particular kind. The archive of a novelist will contain documents
+records of a particular kind. The literary archive will contain documents
 drastically different than those of a police report or a medical record. The
 archive creates answers for questions like "What constitutes an event?" The
-police report consists of accidents and violations.  The medical record
+police report thus comprises accidents and violations. The medical record
 consists of symptoms and diagnoses. The literary record contains documents
 relevant to the author's output. In selecting the important events, or what
 constitutes an event, the archive constructs a sense of time. Archival time is
 made up of records.
+
+[^record]: I am sidestepping the sometimes important distinction between
+*documents* and *records*. See @vismann_files:_2008, 71-101.
 
 In this disparity between everything that can be recorded and the much smaller
 subset of details that are actually recorded lies the normative power of an
@@ -127,24 +127,26 @@ United Kingdom recommend an archive's collection policy further to include
 "information about the legal status of the repository or other source of its
 authority to collect," "information about the scope of, or limitations to, the
 [collection] policy," "information about the process of collection," and
-"information concerning access." The collection policy of the National
-Archives itself defines the role of the institution in terms of collecting and
-"records from all government departments and bodies whose records are public
-records under the Public Record's Act" [@ p5]. It further continues to
-identify an interest collecting "public records of historical value and
-enduring public interest," which include among other kinds of material
-"significant records concerning international relations and defence," "records
-of commissions, tribunals, and inquiries," and "case files, datasets and other
-records which contain extensive information about the lives of individual or
-groups [...] which contribute substantially to public knowledge and
-understanding of the people and communities of the UK" [@ 6-7].
+"information concerning access" [@_archive_2004]. The collection policy of the
+National Archives itself defines the role of the institution in terms of
+collecting and "records from all government departments and bodies whose
+records are public records under the Public Record's Act" [@ _records_2012,
+5]. It further continues to identify an interest collecting "public records of
+historical value and enduring public interest," which include among other
+kinds of material "significant records concerning international relations and
+defence," "records of commissions, tribunals, and inquiries," and "case files,
+datasets and other records which contain extensive information about the lives
+of individual or groups [...] which contribute substantially to public
+knowledge and understanding of the people and communities of the UK" [@
+_records_2012, 6-7].
 
-Consider QZAP's collection policy in comparison. It includes first, a
-definition of what a "zine" is: "a self-published, small circulation,
-non-commercial booklet or magazine, usually produced by one person or a few
-individuals." Then it narrows that definition to the notion of a "queer zine,"
-a self-published document related to "people's expression of gender and
-sexuality" in a long list of self-identified categories that include:
+Consider QZAP's collection policy in comparison [@qzap_collection_2016]. It
+includes first, a definition of what a "zine" is: "a self-published, small
+circulation, non-commercial booklet or magazine, usually produced by one
+person or a few individuals." Then it narrows that definition to the notion of
+a "queer zine," a self-published document related to "people's expression of
+gender and sexuality" in a long list of self-identified categories that
+include:
 
 > queer, kweer, gay, lesbian, bi, bisexual, fag, faggot, dyke, trans, tranny,
 queen, king, princess, Nancy boy, Brucey Boy, nelly, femme, butch, bulldagger,
@@ -161,16 +163,16 @@ further includes a number of themes related to:
 > DIY (do-it-yourself), comics/comix, erotica/porn, journaling/diary zines,
 > manifestos, [and] poetry.
 
-The collection policy identifies, in the words of Achille Mbembe "a process
+Both collection policies identify, in the words of Achille Mbembe "a process
 which converts a certain number of documents into items judged to be worthy of
 preserving" [@mbembe_power_2012, 20]. Because of this selectionally role, the
 archive cannot be treated as a neutral site of knowledge consumption. Rather,
-Ann Stoler and others have argued, readers should treat the archive as a site
-of knowledge *production* [@stoler_along_2009] In selecting what documents to
-preserve, the archive makes evidence available to the historical record.
-Histories are woven from that evidence. The records that do not make it into
-the archive, become less readily accessible or not accessible at all. They
-fall out of history.
+as Ann Stoler and others have argued, readers should treat the archive as a
+site of knowledge *production* [@richards_imperial_1993; @stoler_along_2009].
+In selecting what documents to preserve, the archive makes evidence available
+to the historical record.  Histories are woven from that evidence. The records
+that do not make it into the archive become less readily accessible to the
+historian. In a sense, they fall out of history.
 
 ## Architecture
 
@@ -268,12 +270,12 @@ patron looking for a specific book finds a shelf of books on a similar topic.
 An way of organizing material by alphabet or by size alone would result in
 different kind of discovery. Classification systems provide the scaffolding
 for everyday knowledge work . It is a difficult thing to perceive because it
-is ubiquitous and often invisible [@bowker_sorting_1999]. But think of the
-various classification systems that surround our daily life: the physician
-classifies according to a list of available diagnoses and billable insurance
-codes, the judge classifies according to the legal categories, the academic
-classifies according to scientific categories, students structure their days
-according to the course catalog.
+is ubiquitous and often invisible [@bowker_sorting_1999]. Think of the various
+classification systems that surround our daily life: the physician classifies
+according to a list of available diagnoses and billable insurance codes, the
+judge classifies according to the legal categories, the academic classifies
+according to scientific categories, students structure their days according to
+the course catalog.
 
 The job of an archivist involves classification---an activity that projects
 order among documents and architectures. One can think of classification as
@@ -310,14 +312,40 @@ logics, multiple systems of classification that compete, undermine, and
 strengthen each other. The classification system is no longer the work of a
 single man, John Dewey; archive dwellers bring with them their own tags and
 categories. The digital archive encourages its participants to engage in this
-organizing activity. It extracts value from it.
+organizing activity. The archive managers extract value from it. The digital
+archive retains the trace of archive dwelling. All visitors and inhabitants of
+the archive become archivists themselves. Their searching and organizing
+activity is further commodified to add value to the catalog.
 
-Crawlers, indexers, classifiers.
+Furthermore, this inherently social activity is augmented by automated tools.
+Archivists in their own right, algorithmic crawlers, indexers, and classifiers
+learn from human behavior to collect, analyze, and catalog data on their own.
+Web crawlers follow links and disperse through the network to search for new
+material. Indexers begin the task of assigning keywords and categories.
+Supervised machine-learning classifiers apply existing categories, tagged by
+humans, to new collections. As the name implies, their task is to classify or
+to sort things into piles. These piles are then assigned labels that help
+humans sort through vast amounts of data. Unsupervised learning algorithms
+notice patterns that are not apparent to the human eye and mind. The so called
+"deep learning" algorithms mimic the neural structure of human brains to
+further aid in sorting and classification [@li_introduction_2008;
+@flach_machine_2012; @schmidhuber_deep_2015].
+
+The simple task of using a search engine to find a piece of information belies
+the complex realities of the digital archive. Advances in storage media
+coupled with computational technique have made it possible to imagine a near
+feature in which everything can be stored and everything can be organized. Yet
+the history of the archive tells us that the exclusionary principle will
+continue to operate as long as the archive remains an instrument of economic
+and political power. Machine intelligence extends and deepens human
+distinctions. Unlike a public archive, whose collection policies we can bring
+forth with a request, machine archivist operates opaquely, ushering what some
+have called the "black box society" and the "hidden logics of search"
+[@pasquale_hidden_2015]. These new computational realities of an archive
+require archivists equipped with the sharp tools of critical theory,
+information science, and software engineering.
 
 [^foucault]: In this regard see the Preface in @foucault_order_1971, xv-xxiv.
-
- Re search engine
-[@pasquale_hidden_2015].
 
 ## Suggested Reading
 
