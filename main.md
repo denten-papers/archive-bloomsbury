@@ -244,11 +244,29 @@ houses the archive but also to the epistemological architecture of the
 catalog. The catalog locates the document in the ideational space, just as the
 building---stacks and bookshelves---locates it in the physical. To be lost in
 one is to be lost in the other. Thus in addition to asking What was collected?
-and How is it accessed? we should also ask, How is it organized? What logics,
-what epistemological regimes govern the order 
+and How is it accessed? we should also ask, How is it organized? What logics
+and what epistemological regimes govern the order of documents in the
+archive?
 
 The advent of powerful computational archive technologies---databases,
-indexers, crawlers---precipitated a shift from the 
+indexers, crawlers---has transformed the nature of the catalog. Before
+computers, archivists relied on systems of social filtration or organize their
+materials. Ask yourself this: How did you find the chapter in front of you?
+Traditionally, search and discovery of new information was facilitated by
+complex processes of canon formation. One finds a book or a film because it is
+assigned in class, because it was advertised, because a friend recommended it,
+or the recommendation came from a critic. These social mechanisms of
+filtration reify into epistemological categories. Thus a reflection on the
+genre of a novel by book critics and book sellers alike results in the isles
+of the book store dedicated to fantasy, classics, detective fiction, and so
+on. In the isles of a book store we once again observe the close entanglement
+of document, architecture, and epistemology. Classification lies at the heart
+of library science [@robinson_rhizome_2010]. The Dewey Decimal Classification
+system, for example, has guided the 
+
+[@bowker_sorting_1999].
+
+Re search engine [@pasquale_hidden_2015].
 
 ## Suggested Reading
 
@@ -258,12 +276,14 @@ Impression." *Diacritics* 25 (2): 9–63.
 Gitelman, Lisa. 2014. *Paper Knowledge: Toward a Media History of Documents*.
 North Carolina: Duke University Press.
 
-Hamilton, Carolyn, Verne Harris, Michèle Pickover, Graeme Reid, Razia Saleh,
-and Jane Taylor. 2012. *Refiguring the Archive*. Springer Science & Business
-Media.
+Mbembe, Achille. 2012. "The Power of the Archive and Its Limits." In
+*Refiguring the Archive*, 19–27. Springer Science & Business Media.
 
 Mayer-Schönberger, Viktor. 2009. *Delete: The Virtue of Forgetting in the
 Digital Age*. Princeton: Princeton University Press.
+
+Pasquale, Frank. 2015. "The Hidden Logics of Search." In *The Black Box
+Society: The Secret Algorithms That Control Money and Information*, 59–100.
 
 Richards, Thomas. 1993. *The Imperial Archive: Knowledge and the Fantasy of
 Empire*. London, New York: Verso.
