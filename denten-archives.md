@@ -11,42 +11,45 @@ archives; we live in them and through them. Archives mediate. Like water for
 fish, they form the medium of our knowledge gathering and finding activity.
 If, as the headlines tell us, we live in an information age, archives are a
 way of making sense of that information. More than making sense, they help
-keep information *at hand*, handle it, pour over, organize, and process. To
-archive is not just a mental activity, in other words, it is physical as well.
-An archive is a way of ordering things.
+keep information *at hand*. An archive is a way of ordering things. It is a
+site of mental as a well as physical activity.
 
-The archive is also an interface between internal mental states---what I know
-now---and the external, physical representation of that knowledge---what I
-could know at any time. The book on my shelf is not just a book, it is a part
-of my mental furnishings. In many cases, I don't remember the contents of that
-book, but I know where it is. I know I could get to it if needed. It is not as
-close to me as a memory, accessible immediately and at once, but also not as
-far as an obscure fact with which I have never had any contact. The book on my
-shelf, the notebook in a pile on my desk, occupies a space somewhere in the
-middle of the spectrum, between my rather limited ability to remember a few
-ideas presently and the unlimited amount of ideas out there. My documents, the
-ones that belong to me, the ones I organized neatly on my desk and on my
-virtual desktop, are ideas that I used to have. They are also a part of me,
-but just slightly farther away than my thoughts. I feel safe knowing where
-they are and how to find them.  Recall Samuel Beckett's play, *Krapp's Last
-Tape*, where the reader encounters Krapp, a "wearish old man," who every year,
-on his birthday, records a message to himself and lovingly reviews old
-recordings as if to enter into a conversation with himself, to encounter
-himself anew [@beckett_krapps_1960]. Who is Krapp, the play asks of the
-reader, if not the collection of these memories and recordings? Krapp is at
-once an archivist and the archive. In this ordinary way---through the
-continual activity of taking notes, photographs, and recordings of ourselves,
-our friends, and our families---all of us are implicated in the archival
-condition. Whatever it means to be someone, a self, involves the enterprise of
-storage and retrieval. Think of the discomfort we feel when someone disturbs
-our archives: if someone were to reorganize your music collection for example,
-or scramble the order of your notes, or rearrange the books on your bookshelf.
-One feels lost and violated precisely because the archive is so crucial to our
-ability to find our way through a forest of data. It is a small, organized
-space of private order within the chaos of information.
+Think of the archive as an interface between internal mental states---what I
+know now---and the external, physical representation of that knowledge---what
+I could know at any time. The book on my bookshelf is not just a book, it is a
+part of my mental furnishings. I may not remember the contents of that book
+for long, but I know where it is and how to find it. I know I could get to it
+if needed.  It is not as close to me as a memory, accessible immediately and
+at once, but also not as far as an obscure fact with which I have never had
+any contact. The book on my shelf, the notebook in a pile on my desk, occupies
+a space somewhere in the middle of the spectrum, between my rather limited
+ability to remember a few ideas presently and the unlimited amount of ideas
+out there. My documents, the ones that belong to me, the ones I organized
+neatly on my desk and on my virtual desktop, are ideas that I used to have.
+They are also a part of me, but just slightly farther away and outside of
+myself than my thoughts. I feel safe knowing where they are and how to find
+them.
 
-Not all islands of order are small and private. Some islands grow into
-empires: state archives that project collective power. The aggregate of
+Recall Samuel Beckett's play, *Krapp's Last Tape*, where the reader encounters
+Krapp, a "wearish old man," who, every year, on his birthday, records a
+message to himself and lovingly reviews old recordings as if to enter into a
+conversation with himself, to encounter himself anew [@beckett_krapps_1960].
+Who is Krapp, the play asks of the reader, if not a collection of these
+memories and recordings? Krapp is at once an archivist and the archive. In
+this ordinary way---through the continual activity of taking notes,
+photographs, and recordings of ourselves, our friends, and our families---all
+of us are implicated in the archival condition. Whatever it means to be
+someone, a self, involves the enterprise of storage and retrieval. Think of
+the discomfort we feel when someone disturbs our archives: if someone were to
+reorganize your music collection for example, or scramble the order of your
+notes, or rearrange the books on your bookshelf. One feels lost and violated
+precisely because the archive is so crucial to our ability to find our way
+through a forest of personal data. The archive, in this sense, is a small,
+organized vessel of private order adrift in the midst of a vast and turbulent
+sea of information.
+
+Not all vessels of order are small and private. Some grow into imperial
+armadas: state archives that project collective power. The aggregate of
 personal memories gives us our shared, cultural memory, our heritage. That
 sense of shared culture does not exist in the immaterial ether. It is
 reflected in publicly and privately supported collections like the Library of
@@ -55,18 +58,18 @@ preserving art and books---public in the sense of a collective enterprise (not
 necessarily funding). They represent a vision of communal remembrance. It is
 *a* vision, however, not *the* vision. It must not be mistaken for history or
 for reality [@lacapra_history_1985; @spivak_rani_1985]. Someone, somewhere
-made a decision about what to archive and where.  State-sanctioned collections
+made a decision about what to archive and where. State-sanctioned collections
 reflect the priorities of a bureaucracy, resulting in archives like the State
 Archive of the Russian Federation, Ottoman Archives, New York State Archives,
 West Indies Federal Archives Centre, and China's Central Archives among many
-others.  Smaller, grass-roots public archives are often maintained by
+others. Smaller, grass-roots public archives are often maintained by
 independent organizations like the *Archiv der Jungendkulturen* in Berlin or
 the North American Queer Zine Archive Project (QZAP) out of Minneapolis,
 Minnesota.
 
-Other dynamics come into play when the archives grow from islands to
-continents of knowledge. In the state archive we begin to think about the
-forces of inclusion and exclusion [@richards_imperial_1993;
+Other dynamics come into play when the archives grow in size from small
+vessels to fleets of knowledge. In the state archive we begin to think about
+the forces of inclusion and exclusion [@richards_imperial_1993;
 @greetham_whos_1999]. Who is allowed to enter and who isn't?  Which materials
 are worthy preservation and which are relegated to the heap of perishable
 ephemera? In this way archives can amplify certain historical narratives while
@@ -283,7 +286,8 @@ their location. It is the key to the bibliographic universe. The inhabitants
 of the infinite library travel on a quest of find the catalog: "a catalog of
 catalogs," "the cipher and perfect compendium *of all other books*.
 [@borges_library_1998, 113 & 116]" The librarian would find such a book would
-be analogous to a God, Borges writes [@borges_library_1998, 117].
+be analogous to a God, Borges writes [@borges_library_1998, 117]. The catalog
+grows in importance in the proportion to the size of the archive.
 
 The advent of powerful computational archive technologies---crawlers indexers,
 and classifiers---have transformed the nature of catalogs in our world.
