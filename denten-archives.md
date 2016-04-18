@@ -1,18 +1,19 @@
-An archive can be as large as a library or as small as a bookshelf. What are
-the minimal requirements to build an archive? How does a pile of haphazardly
-arranged papers differ from an archive? Look around you and notice the
-furniture; navigate through your mobile device where you keep your notes and
-your photos. Think of your social media usage, your habits of correspondence,
-the way you keep in touch with your family and friends, the habits of keeping
-a journal, taking notes, finding basic facts about the world. All of these
-involve an archive of some kind. We are surrounded by archives; we live in
-them and through them. Archives mediate. Like water for fish, they form the
-medium of our knowledge gathering and finding activity. If, as the headlines
-tell us, we live in an information age, archives are a way of making sense of
-that information. More than making sense, they help keep information *at
-hand*, handle it, pour over, organize, and process. To archive is not just a
-mental activity, in other words, it is physical as well. An archive is a way
-of ordering things.
+An archive can be as large as a library or as small as a bookshelf. 
+
+What are the minimal requirements to build an archive? How does a pile of
+haphazardly arranged papers differ from an archive? Look around you and notice
+the furniture; navigate through your mobile device where you keep your notes
+and your photos. Think of your social media usage, your habits of
+correspondence, the way you keep in touch with your family and friends, the
+habits of keeping a journal, taking notes, finding basic facts about the
+world. All of these involve an archive of some kind. We are surrounded by
+archives; we live in them and through them. Archives mediate. Like water for
+fish, they form the medium of our knowledge gathering and finding activity.
+If, as the headlines tell us, we live in an information age, archives are a
+way of making sense of that information. More than making sense, they help
+keep information *at hand*, handle it, pour over, organize, and process. To
+archive is not just a mental activity, in other words, it is physical as well.
+An archive is a way of ordering things.
 
 The archive is also an interface between internal mental states---what I know
 now---and the external, physical representation of that knowledge---what I
@@ -27,12 +28,22 @@ ideas presently and the unlimited amount of ideas out there. My documents, the
 ones that belong to me, the ones I organized neatly on my desk and on my
 virtual desktop, are ideas that I used to have. They are also a part of me,
 but just slightly farther away than my thoughts. I feel safe knowing where
-they are and how to find them. Think of the discomfort we feel when someone
-disturbs our archives: if someone were to reorganize your music collection for
-example, or scramble the order of your notes, or rearrange the books on your
-bookshelf. One feels lost and violated precisely because the archive is so
-crucial to our ability to find our way through a forest of data. It is a
-small, organized space of private order within the chaos of information.
+they are and how to find them.  Recall Samuel Beckett's play, *Krapp's Last
+Tape*, where the reader encounters Krapp, a "wearish old man," who every year,
+on his birthday, records a message to himself and lovingly reviews old
+recordings as if to enter into a conversation with himself, to encounter
+himself anew [@beckett_krapps_1960]. Who is Krapp, the play asks of the
+reader, if not the collection of these memories and recordings? Krapp is at
+once an archivist and the archive. In this ordinary way---through the
+continual activity of taking notes, photographs, and recordings of ourselves,
+our friends, and our families---all of us are implicated in the archival
+condition. Whatever it means to be someone, a self, involves the enterprise of
+storage and retrieval. Think of the discomfort we feel when someone disturbs
+our archives: if someone were to reorganize your music collection for example,
+or scramble the order of your notes, or rearrange the books on your bookshelf.
+One feels lost and violated precisely because the archive is so crucial to our
+ability to find our way through a forest of data. It is a small, organized
+space of private order within the chaos of information.
 
 Not all islands of order are small and private. Some islands grow into
 empires: state archives that project collective power. The aggregate of
@@ -206,7 +217,7 @@ only an obvious few public archives like the state library, but also the
 numerous small private archives that increasingly house details of our
 everyday life. A collection of home photographs on a personal computer or a
 mobile phone answers all of our minimal definitions of an archive. It consists
-of cataloged documents, collected in especially alloted for them space. The
+of cataloged documents, collected in especially allotted for them space. The
 documents are described with meta-data---tags, file names---constituting a
 method of organized storage and retrieval not so different from your local
 library catalog. Once the purview of large institutions, the archive is now
@@ -257,19 +268,36 @@ addition to asking What was collected? and How is it accessed? we should also
 ask, How is it organized? What logics and what epistemological regimes govern
 the order of documents in the archive?
 
+In his short story "The Library of Babel," Jorge Luis Borges imagines
+the world of an infinite library that contains all possible books:
+
+> *All*---the detailed history of the future, the autobiographies of the
+archangels, the faithful catalog of the Library, thousands and thousands of
+false catalogs, the proof of the falsity of those false catalogs, a proof of
+the falsity of the *true* catalog [...] the true story of your death, the
+translation of every book into every language, the interpolations of every
+book into all books [...] [@borges_library_1998, 115].
+
+The catalog, as we can see, is unlike the other books in that it is a map of
+their location. It is the key to the bibliographic universe. The inhabitants
+of the infinite library travel on a quest of find the catalog: "a catalog of
+catalogs," "the cipher and perfect compendium *of all other books*.
+[@borges_library_1998, 113 & 116]" The librarian would find such a book would
+be analogous to a God, Borges writes [@borges_library_1998, 117].
+
 The advent of powerful computational archive technologies---crawlers indexers,
-and classifiers---have transformed the nature of the catalog. Before
-computers, archivists relied on systems of social filtration or organize their
-materials. Ask yourself this: How did you find the movie you watched recently
-or even the chapter in front of you? Traditionally, search and discovery of
-new information was facilitated by complex processes of canon formation. One
-finds a book or a film because it is assigned in class, because it was
-advertised, because a friend recommended it, or the recommendation came from a
-critic. These social mechanisms of filtration reify into epistemological
-categories. Thus a reflection on genre by book critics and book sellers
-results in the isles of the book store dedicated to the genres of fantasy,
-classics, detective fiction, and so on. In the isles of a book store we once
-again observe the close entanglement of document, architecture, and
+and classifiers---have transformed the nature of catalogs in our world.
+Before computers, archivists relied on systems of social filtration or
+organize their materials. Ask yourself this: How did you find the movie you
+watched recently or even the chapter in front of you? Traditionally, search
+and discovery of new information was facilitated by complex processes of canon
+formation. One finds a book or a film because it is assigned in class, because
+it was advertised, because a friend recommended it, or the recommendation came
+from a critic. These social mechanisms of filtration reify into
+epistemological categories. Thus a reflection on genre by book critics and
+book sellers results in the isles of the book store dedicated to the genres of
+fantasy, classics, detective fiction, and so on. In the isles of a book store
+we once again observe the close entanglement of document, architecture, and
 epistemology.
 
 Classification lies at the heart of library science [@robinson_rhizome_2010].
