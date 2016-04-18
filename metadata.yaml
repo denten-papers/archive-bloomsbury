@@ -1,0 +1,9 @@
+---
+title: Archive
+author: Dennis Yi Tenen
+csl: chicago-author-date.csl
+bibliography: archive.bib
+documentclass: article
+mainfont: "fbb"
+fontsize: 12pt
+---

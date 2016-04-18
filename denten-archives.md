@@ -130,15 +130,15 @@ authority to collect," "information about the scope of, or limitations to, the
 "information concerning access" [@_archive_2004]. The collection policy of the
 National Archives itself defines the role of the institution in terms of
 collecting and "records from all government departments and bodies whose
-records are public records under the Public Record's Act" [@ _records_2012,
-5]. It further continues to identify an interest collecting "public records of
+records are public records under the Public Record's Act" [@_records_2012, 5].
+It further continues to identify an interest collecting "public records of
 historical value and enduring public interest," which include among other
 kinds of material "significant records concerning international relations and
 defence," "records of commissions, tribunals, and inquiries," and "case files,
 datasets and other records which contain extensive information about the lives
 of individual or groups [...] which contribute substantially to public
-knowledge and understanding of the people and communities of the UK" [@
-_records_2012, 6-7].
+knowledge and understanding of the people and communities of the UK"
+[@_records_2012, 6-7].
 
 Consider QZAP's collection policy in comparison [@qzap_collection_2016]. It
 includes first, a definition of what a "zine" is: "a self-published, small
@@ -357,7 +357,7 @@ subjugation of its dwellers. Machine intelligence extends and deepens human
 distinctions. Unlike the archivist who labors in public and follows legible
 collection policies, the swarm of algorithmic machine archivists operate in
 the dark, usually without decree or consent. Archive dwellers are moving
-towards what some have called a "black box society," governed by the "hidden
+towards what some have called the "black box society," governed by the "hidden
 logics of search" [@pasquale_hidden_2015]. These new computational realities
 require archivists equipped with the sharp tools of critical theory,
 information science, and software engineering. The sauntering iron and the
@@ -373,7 +373,7 @@ On the power of archives to create and to shelter themselves from memory read
 documents and records from the perspective of media theory.
 @hamilton_refiguring_2012 is an important collection of essays on the archive
 in and beyond post-colonial studies. On the relationship between the archive
-and empire read @richards_imperial_1993; @mbembe_power_2012; and
+and empire read @richards_imperial_1993, @mbembe_power_2012, and
 @peterson_power_2012. @qiu_working-class_2009 and @sundaram_pirate_2011 give
 the reader thorough ethnographic accounts of contemporary archival dwelling
 outside of Europe and North America. @mayer-schonberger_delete:_2009 and
